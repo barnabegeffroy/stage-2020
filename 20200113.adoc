@@ -1,6 +1,7 @@
 == Entretien du 13 janvier 2020
 
- Retours sur les différentes tâches à effectuer :
+Retours sur les différentes tâches à effectuer :
+
 * Questions sur Git, en particuliers le fonctionnement des remotes
 * Maven
 * L'article Arguing about voting rules, changement de programme :
