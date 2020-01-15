@@ -1,6 +1,7 @@
 == Entretien du 13 janvier 2020
 
 Retours sur les différentes tâches à effectuer :
+
 * Questions sur Git : le fonctionnement des remotes, push, fetch
 * Questions sur les variables d'environnement
 * L'article Arguing about voting rules, changement de programme :
