@@ -1,3 +1,7 @@
 == Entretien du 13 janvier 2020
 
-*
+ Retours sur les différentes tâches à effectuer :
+* Questions sur Git, en particuliers le fonctionnement des remotes
+* Maven
+* L'article Arguing about voting rules, changement de programme :
+Au lieu de travailler sur la conception d'un code pour cet article, nous travaillerons sur la conception d'une application web répertoriant des fichiers vidéos et permettant de donner son avis après le visionnage de ces vidéos.
