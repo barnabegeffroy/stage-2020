@@ -1,4 +1,5 @@
 = Tâches en cours :
+
 * Apprendre à manier Git : lire les chapitres de Pro Git book, faire les exercices d'entrainement
 * Apprendre à manier Maven : lire la documentation, faire les exercices et les Best practices et en particulier écricre et excuter des tests unitaires
 * Lire l’article Arguing about voting rules  
