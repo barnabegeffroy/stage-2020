@@ -6,6 +6,7 @@ Retours sur les différentes tâches à effectuer :
 * Maven
 * L'article Arguing about voting rules, changement de programme :
 Au lieu de travailler sur la conception d'un code pour cet article, nous travaillerons sur la conception d'une application web répertoriant des fichiers vidéos et permettant de donner son avis après le visionnage de ces vidéos.
+
 Pour commencer le développement agile de l'application, débuter par regarder le code de Sample Jetty
 
 Prochain entretien : Jeudi 16 janvier, 16h
