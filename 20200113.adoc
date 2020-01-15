@@ -8,6 +8,4 @@ Au lieu de travailler sur la conception d'un code pour cet article, nous travail
 
 Pour commencer le développement agile de l'application, débuter par regarder le code de Sample Jetty
 
-
-
 Prochain entretien : Jeudi 16 janvier, 16h
