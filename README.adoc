@@ -2,7 +2,6 @@
 
 * Apprendre à manier Git : lire les chapitres de Pro Git book, faire les exercices d'entrainement
 * Apprendre à manier Maven : lire la documentation, faire les exercices et les Best practices, en particulier écrire et exécuter des tests unitaires
-* Lire l’article Arguing about voting rules  
 * Créer deux dépôts GitHub :
 ** "stage 2020", contenant deux fichiers README.adoc et 20200113.adoc
 ** "Attendance", y déposer le code de Sample Jetty
