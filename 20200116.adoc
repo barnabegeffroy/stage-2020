@@ -1,0 +1,7 @@
+== Entretien du 16 janvier 2020
+
+Quelques éclaircissements sur Git
+Pour lancer le Sample Jetty, finir de lire le tutorial maven
+
+
+Prochain entretien : lundi 20 janvier 2020, 14h
