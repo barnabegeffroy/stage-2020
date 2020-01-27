@@ -1,0 +1,8 @@
+== Entretien du 20 janvier 2020
+
+Quelques éclaircissements sur HTTP, serveur, client...
+
+Commencer à programmer l'application gérant les présences par la programmation d'un servlet gérant deux étudiants, faire un test d'intégration, et afficher les noms sur une page HTML.
+Pour cela lire la doc sur JSON et cURL
+
+Prochain entretien : lundi 27 janvier 2020, 17h15
