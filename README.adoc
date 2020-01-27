@@ -1,10 +1,16 @@
 = Tâches en cours :
 
-* changer le nom du projet, artifact id, package
-* lire documentation HTLM
-* installer curl
-* exercices
-* lire documentation JSON
 * Programmer un servlet qui renvoie une liste d'étudiants en Json
 * Programmer un test unitaire qui vérifie que le serveur renvoie bien la liste des étudiants
-* Programmer une page HTML pour l'affichage
+
+
+* Programmer une page HTML pour l'affichage en javascript
+* test JAX-RS client
+* mettre le logiciel sur travis, répertoire devOps lire ci.adoc
+* faire tourner le serveur en ligne avec Heroku (voir tutotriel defcenter)
+* en tête curl
+* case pour la présence 
+*servlet recordAttendance : post
+*page html :
+** list (lecture seule)
+** check : logique cocher=>post (JS) + case tous présents
