@@ -10,7 +10,7 @@
 * faire tourner le serveur en ligne avec Heroku (voir tutotriel defcenter)
 * en tête curl
 * case pour la présence 
-*servlet recordAttendance : post
-*page html :
+* servlet recordAttendance : post
+* page html :
 ** list (lecture seule)
 ** check : logique cocher=>post (JS) + case tous présents
