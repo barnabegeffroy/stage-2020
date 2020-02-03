@@ -1,0 +1,7 @@
+== Entretien du 27 janvier 2020
+
+* débugage du servlet list, test du servlet
+* visualisation des tâches à effectuer pour l'applications, différents servlets et pages html à coder, pour afficher la liste des étudiants et pour cocher (post) les étudiants absents
+* déployer l'application sur travis et heroku
+
+Prochain entretien : jeudi 6 février 2020, 17h30
