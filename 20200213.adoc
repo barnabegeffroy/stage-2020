@@ -1,0 +1,15 @@
+== Entretien du 13 février 2020
+
+Le stage se décompose en trois projets distincts : 
+* Le projet de gestion des présences : 
+** obtenir l'accès à la base de donnée et l'intégrer à l'application jesuisencours (ou sowesign)
+** en parler avec Yves Georgelin
+
+* Le projet des régimes alimentaires : 
+** mon rôle est de développer un site web sur lequel l'utilisateur peut visionner certaines vidéos en fonction des vidéos qu'il a déjà vues
+** obtenir les informations de l'usage de chaque utilisateur
+
+* Projet sur le résumé du programme de cours : 
+** le but est de générer un tableau récapitulant les informations des différents cours
+
+Prochain entretien : jeudi 24 février 2020, 14h00
