@@ -3,13 +3,13 @@
 * résoudre le problème heroku s'aider des exercices
 
 * attendance : 
-** R-V Yves Gorgelin : ygeorgelin@cfa-afia.fr
 ** https://jesuisencours.com/myapps https://sowesign.com/
 ** obtenir les accès
 
 * résumé du programme de cours : 
 ** partir de https://github.com/Dauphine-MIDO/plaquette-MIDO
 ** ajouter les noms des enseignants au PDF généré
+** déployer l'application sur heroku
 
 * régimes alimentaires :
 ** trouver un canevas pour présenter les arguments et récolter les opinions
