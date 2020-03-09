@@ -4,7 +4,6 @@
 
 
 * résumé du programme de cours : 
-** partir de https://github.com/Dauphine-MIDO/plaquette-MIDO
 ** ajouter les noms des enseignants au PDF généré
 ** déployer l'application sur heroku
 

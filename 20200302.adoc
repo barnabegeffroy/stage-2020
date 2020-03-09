@@ -4,11 +4,11 @@
 ** aide pour lancer l'application
 ** deux APIs : 
 *** Ref ROF: réferentiel de l'offre de formation
-	cours, catégorisés en 
-		mentions(M1app MIDO : ensemble de programmes), 
-		programmes(ensemble de programmes ou de cours), 
-		cours(prérequis, nom du cours)
-	contacts(enseignants de ces cours)
+**** cours, catégorisés en 
+***** mentions(M1app MIDO : ensemble de programmes), 
+***** programmes(ensemble de programmes ou de cours), 
+***** cours(prérequis, nom du cours)
+**** contacts(enseignants de ces cours)
 
 *** Ref Supann : 
 	annuaire de Dauphine 
