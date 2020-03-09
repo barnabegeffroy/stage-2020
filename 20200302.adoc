@@ -1,0 +1,24 @@
+== Entretien du 2 mars 2020
+
+* plaquette Mido : 
+** aide pour lancer l'application
+** deux APIs : 
+*** Ref ROF: réferentiel de l'offre de formation
+	cours, catégorisés en 
+		mentions(M1app MIDO : ensemble de programmes), 
+		programmes(ensemble de programmes ou de cours), 
+		cours(prérequis, nom du cours)
+	contacts(enseignants de ces cours)
+
+*** Ref Supann : 
+	annuaire de Dauphine 
+
+* régime alimentaire : 
+** video.js lecteur open source permettant d'obtenir les données nécessaires pour le projet
+** trouver une interface opensource permettant d'éditer un site web facilement
+** faire un premier essai avec deux vidéos sur une page et un formulaire sur une autre
+
+* Gestion des présences :
+** en attente de la réponse de M. Georgelin
+
+Prochain entretien : lundi 9 mars 2020, 14h00	

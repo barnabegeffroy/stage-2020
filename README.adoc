@@ -1,10 +1,7 @@
 = Tâches en cours :
 
-* résoudre le problème heroku s'aider des exercices
-
 * attendance : 
-** https://jesuisencours.com/myapps https://sowesign.com/
-** obtenir les accès
+
 
 * résumé du programme de cours : 
 ** partir de https://github.com/Dauphine-MIDO/plaquette-MIDO
@@ -15,5 +12,6 @@
 ** trouver un canevas pour présenter les arguments et récolter les opinions
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
+** relire le protocole
 ** lire Cailloux, Olivier, and Yves Meinard. 2019. ‘A Formal Framework for Deliberated Judgment’. Theory and Decision. https://doi.org/10.1007/s11238-019-09722-7
-
+** éditer une première page web avec deux vidéos sur une page et un formulaire sur l'autre.
