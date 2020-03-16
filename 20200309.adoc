@@ -1,0 +1,16 @@
+== Entretien du 9 mars 2020
+
+* plaquette Mido : pas d'avancement
+** ajouter le nom des enseignants et déployer sur Heroku
+
+* régime alimentaire : 
+** bonne approche avec wordpress mais peu de liberté
+** voir jekyll
+** faire sur jekyll ce qui a été fait sur wordpress
+** questions sur la resprésentativité de l'exprérience
+
+
+* Gestion des présences :
+** en attente de la réponse de M. Georgelin
+
+Prochain entretien : lundi 15 mars 2020, 14h00	
