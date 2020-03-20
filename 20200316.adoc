@@ -1,0 +1,14 @@
+== Entretien du 16 mars 2020
+
+* plaquette Mido : 
+** fusionner avec le nouveau commit
+** complier avec plaquette-mido ou attendance
+
+* régime alimentaire : 
+** jekyll, déposer sur github
+
+
+* Gestion des présences :
+** en attente de la réponse de M. Georgelin
+
+Prochain entretien : à fixer

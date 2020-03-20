@@ -1,16 +1,29 @@
-= Tâches en cours :
+= Tâches en cours
 
 * attendance : 
 ** en attente de la réponse de M. Georgelin
 
-* résumé du programme de cours : 
+* plaquette mido : 
+*** l'authentification fontionne de façon de façon commune
 ** ajouter les noms des enseignants au PDF généré
 ** déployer l'application sur heroku
 
 * régimes alimentaires :
-** éditer une première page web avec deux vidéos sur une page et un formulaire sur l'autre.
 ** trouver un canevas pour présenter les arguments et récolter les opinions
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
-** relire le protocole
 ** lire Cailloux, Olivier, and Yves Meinard. 2019. ‘A Formal Framework for Deliberated Judgment’. Theory and Decision. https://doi.org/10.1007/s11238-019-09722-7
+
+= Tâches terminées
+
+* attendance :
+
+* plaquette mido : 
+**  fusionner la nouvelle version de plaquette
+
+* régimes alimentaires : 
+** éditer une première page web avec deux vidéos sur une page et un formulaire sur l'autre.
+*** premier essai sur wordpress
+*** second essai sur jekyll
+** déposer le projet jekyll d'essai sur github https://github.com/barnabegeffroy/website_Jekyll
+** lire le protocole
