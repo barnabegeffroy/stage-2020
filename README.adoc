@@ -4,13 +4,11 @@
 ** en attente de la réponse de M. Georgelin
 
 * plaquette mido : 
-**  fusionner la nouvelle version de plaquette (1.0-branch)
+** Créer une nouvelle classe pour améliorer la lecture du code dans l’authentification
 ** ajouter les noms des enseignants au PDF généré
 ** déployer l'application sur heroku
 
 * régimes alimentaires :
-** régler le problème des vidéos (support et chemin)
-** trouver un style
 ** trouver un canevas pour présenter les arguments et récolter les opinions
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
@@ -22,7 +20,11 @@
 
 * plaquette mido : 
 ** l'authentification fontionne de façon de façon commune
+**  fusionner la nouvelle version de plaquette (1.0-branch)
 * régimes alimentaires : 
+** déployer le site jekyll sur travis et sur une page github
+** trouver un style compatible avec différents appareils
+** régler le problème des vidéos (support et chemin)
 ** éditer une première page web avec deux vidéos sur une page et un formulaire sur l'autre.
 *** premier essai sur wordpress
 *** second essai sur jekyll
