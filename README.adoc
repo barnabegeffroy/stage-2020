@@ -1,7 +1,7 @@
 = Travaux
 
-Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
-Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc]
+* Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
+* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc]
 
 = Tâches en cours
 
