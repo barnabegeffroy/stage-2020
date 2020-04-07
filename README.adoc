@@ -9,6 +9,8 @@
 ** déployer l'application sur heroku
 
 * régimes alimentaires :
+** trouver un façon de déployer WordPress sur le web
+** faire une doc sur le déploiement de Jekyll sur Travis et GitHub (asciidoctor)
 ** trouver un canevas pour présenter les arguments et récolter les opinions
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
@@ -21,6 +23,7 @@
 * plaquette mido : 
 ** l'authentification fontionne de façon de façon commune
 **  fusionner la nouvelle version de plaquette (1.0-branch)
+
 * régimes alimentaires : 
 ** déployer le site jekyll sur travis et sur une page github
 ** trouver un style compatible avec différents appareils

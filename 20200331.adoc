@@ -1,0 +1,13 @@
+== Entretien du 31 mars 2020
+
+* plaquette Mido : 
+** éclaircissements sur la nouvelle classe à coder pour améliorer la lisibilité
+** abandon du l'idée d'un username par défaut
+** essai sur testapi et api (je n'ai pas l'accès à l'api)
+
+* régime alimentaire : 
+** faire une doc sur le déploiement de Jekyll sur Travis et GitHub
+** trouver une façon de déployer wordpress sur le web
+
+
+Prochain entretien : à fixer
