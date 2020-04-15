@@ -9,9 +9,12 @@
 ** en attente de la réponse de M. Georgelin
 
 * plaquette mido : 
-** Créer une nouvelle classe pour améliorer la lecture du code dans l’authentification
+** Réussir généraliser pour docbook
+** créer un fichier WSDL_access.txt lisible sur travis
+** séparer le projet en deux logiciels (avec et sans la génération du pdf)
 ** ajouter les noms des enseignants au PDF généré
-** déployer l'application sur heroku
+** déployer l'application sur heroku ou travis
+
 
 * régimes alimentaires :
 ** trouver un canevas pour présenter les arguments et récolter les opinions
@@ -24,6 +27,7 @@
 * attendance :
 
 * plaquette mido : 
+** Créer une nouvelle classe pour améliorer la lecture du code dans l’authentification
 ** l'authentification fontionne de façon de façon commune
 **  fusionner la nouvelle version de plaquette (1.0-branch)
 
