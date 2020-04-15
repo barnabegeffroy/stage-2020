@@ -1,7 +1,7 @@
 = Travaux
 
 * Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
-* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc]
+* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc] (https://github.com/oliviercailloux/tonyzhangnd.github.io/blob/master/2018/06/Integrating-Jekyll-and-Travis-CI.html[copy])
 
 = Tâches en cours
 
@@ -14,7 +14,6 @@
 ** déployer l'application sur heroku
 
 * régimes alimentaires :
-** trouver un façon de déployer WordPress sur le web
 ** trouver un canevas pour présenter les arguments et récolter les opinions
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
@@ -29,6 +28,7 @@
 **  fusionner la nouvelle version de plaquette (1.0-branch)
 
 * régimes alimentaires : 
+** trouver un façon de déployer WordPress sur le web
 ** faire une doc sur le déploiement de Jekyll sur Travis et GitHub (asciidoctor)
 ** déployer le site jekyll sur travis et sur une page github
 ** trouver un style compatible avec différents appareils
