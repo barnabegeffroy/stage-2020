@@ -1,0 +1,10 @@
+== Résumé du mois d'avril
+
+* plaquette Mido : 
+** amélioration du code avec une classe LoginOpt
+** tests unitaires 
+** déploiement quotidien via Travis
+
+* régime alimentaire : 
+** déploiement de Jekyll sur Travis et GitHub
+** déploiement de WordPress sur GitHub
