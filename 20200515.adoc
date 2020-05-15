@@ -1,10 +1,11 @@
-== Résumé du mois d'avril
+== Résumé de l'entretien du 15 mai 2020
 
 * plaquette Mido : 
-** amélioration du code avec une classe LoginOpt
-** tests unitaires 
-** déploiement quotidien via Travis
+** remplacer testapi par api dans le POM, voir si tout fonctionne
+** extraire de plaquette-mido la partie CredsRead
 
-* régime alimentaire : 
-** déploiement de Jekyll sur Travis et GitHub
-** déploiement de WordPress sur GitHub
+* guava : introduction du projet avec la https://github.com/google/guava/issues/3480[discussion] 
+
+* autre : voir GitHub Project
+
+

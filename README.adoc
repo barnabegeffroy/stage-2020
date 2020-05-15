@@ -15,6 +15,7 @@
 ** améliorer et publier l’authentificateur séparément (projet CredsRead):
 *** implémenter une classe publique login
 ** régler le problème de l'entête
+** ajouter « Généré le {docdate} à partir des données du site internet de Dauphine. » au pdf
 ** ajouter les noms des enseignants au PDF généré
 
 * guava (https://github.com/google/guava/issues/3480[discussion]):
