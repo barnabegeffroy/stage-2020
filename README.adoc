@@ -1,47 +1,57 @@
-= Travaux
+= Stage 2020
+
+== Travaux
 
 * Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
-* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc] (https://github.com/oliviercailloux/tonyzhangnd.github.io/blob/master/2018/06/Integrating-Jekyll-and-Travis-CI.html[copy])
+* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc] 
 
-= Tâches en cours
+== Tâches en cours
 
-* attendance : 
-** en attente de la réponse de M. Georgelin
 
 * plaquette mido : 
-** séparer le projet en deux logiciels (avec et sans la génération du pdf)
+** faire échouer le build Travis https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/7[#7]
+** changer l’URL de testapi en api dans le POM et vérifier son fonctionnement
+** ajouter un modèle Papyrus dans un répertoire Doc de plaquette-mido et à y créer un diagramme de classe (voir https://github.com/oliviercailloux/UML/blob/master/Papyrus/Classes.adoc[ici])
+** améliorer et publier l’authentificateur séparément (projet CredsRead):
+*** implémenter une classe publique login
+** régler le problème de l'entête
 ** ajouter les noms des enseignants au PDF généré
 
+* guava (https://github.com/google/guava/issues/3480[discussion]):
+** réfléchir à la FilteringImmutableMapKeySet 
 
 * régimes alimentaires :
-** détailler la doc de Yasmine sur WP2Static
+** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
+*** essai avec Google Analytics mais pas assez précis
+*** quelques pistes (https://github.com/spodlecki/videojs-event-tracking[1], https://github.com/toolbox-tve/videojs-tracking-events[2]) pour afficher les informations des vidéos mais trouver comment les récupérer
 ** trouver un canevas pour présenter les arguments et récolter les opinions
-** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc.
 ** réfléchir au protocole d’exposition et de collecte
 
-
-= Tâches terminées
-
-* attendance :
+== Tâches terminées
 
 * plaquette mido : 
+** Accepter les espaces dans les noms de fichiers
+https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/6[#6]
+** Travis : éviter dépôt dans dépôt https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/4[#4]
+** URL encorder API_login https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/3[#3]
+** écrire une doc sur le déploiment de Travis https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/5[#5]
 ** déployer l'application sur heroku ou travis
-** ajouter des tests unitaires pour le fichier
-** généraliser pour docbook
+** ajouter des https://github.com/Dauphine-MIDO/plaquette-MIDO/blob/master/src/test/java/io/github/oliviercailloux/plaquette_mido_soap/AuthenticationTests.java[tests unitaires] pour le fichier 
+** https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/6084467103980f4df756ffb9cfe94d7d9f10f1b2[généraliser] pour docbook
 ** créer un fichier WSDL_access.txt lisible sur travis
-** Créer une nouvelle classe pour améliorer la lecture du code dans l’authentification
-** l'authentification fontionne de façon de façon commune
+** Créer https://github.com/Dauphine-MIDO/plaquette-MIDO/blob/master/src/main/java/io/github/oliviercailloux/plaquette_mido_soap/LoginOpt.java[une nouvelle classe] pour améliorer la lecture du code dans l’authentification
+** l'authentification fontionne de façon commune
 **  fusionner la nouvelle version de plaquette (1.0-branch)
 
 * régimes alimentaires : 
+** détailler la https://github.com/Yasmine07/D-lib-jugdment/blob/master/D%C3%A9marche%20site%20web.adoc[doc] de Yasmine sur WP2Static
 ** trouver un façon de déployer WordPress sur le web
-** faire une doc sur le déploiement de Jekyll sur Travis et GitHub (asciidoctor)
+** faire une https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc] sur le déploiement de Jekyll sur Travis et GitHub (asciidoctor)
 ** déployer le site jekyll sur travis et sur une page github
 ** trouver un style compatible avec différents appareils
 ** régler le problème des vidéos (support et chemin)
 ** éditer une première page web avec deux vidéos sur une page et un formulaire sur l'autre.
 *** premier essai sur wordpress
 *** second essai sur jekyll
-** déposer le projet jekyll d'essai sur github https://github.com/barnabegeffroy/website_Jekyll
 ** lire le protocole
 ** lire Cailloux, Olivier, and Yves Meinard. 2019. ‘A Formal Framework for Deliberated Judgment’. Theory and Decision.
