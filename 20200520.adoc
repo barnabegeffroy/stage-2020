@@ -1,0 +1,14 @@
+== Résumé de l'entretien du 20 mai 2020
+
+* plaquette Mido : 
+** changer l'execution de l'AppBuilder (mvn exec:java => java)
+** faire le diagramme de classe du projet CreadRead
+** changer le Date par Instant
+
+* guava : faire un diagramme 
+
+* régime alimentaire : mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
+
+* attendance : abandon du projet
+
+Prochain entretien : 21 mai 2020

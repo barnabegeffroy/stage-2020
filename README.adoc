@@ -9,20 +9,18 @@
 
 
 * plaquette mido : 
-** faire échouer le build Travis https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/7[#7]
-** changer l’URL de testapi en api dans le POM et vérifier son fonctionnement
-** ajouter un modèle Papyrus dans un répertoire Doc de plaquette-mido et à y créer un diagramme de classe (voir https://github.com/oliviercailloux/UML/blob/master/Papyrus/Classes.adoc[ici])
+** ajouter un modèle Papyrus dans un répertoire Doc de plaquette-mido et y créer un diagramme de classe
 ** améliorer et publier l’authentificateur séparément (projet CredsRead):
 *** implémenter une classe publique login
-** régler le problème de l'entête
-** ajouter « Généré le {docdate} à partir des données du site internet de Dauphine. » au pdf
 ** ajouter les noms des enseignants au PDF généré
 
 * guava (https://github.com/google/guava/issues/3480[discussion]):
+** faire un diagramme de classe du problème
 ** réfléchir à la FilteringImmutableMapKeySet 
 
 * régimes alimentaires :
 ** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
+*** mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
 *** essai avec Google Analytics mais pas assez précis
 *** quelques pistes (https://github.com/spodlecki/videojs-event-tracking[1], https://github.com/toolbox-tve/videojs-tracking-events[2]) pour afficher les informations des vidéos mais trouver comment les récupérer
 ** trouver un canevas pour présenter les arguments et récolter les opinions
@@ -31,6 +29,10 @@
 == Tâches terminées
 
 * plaquette mido : 
+** faire échouer le build Travis : changer mvn:exec par une exécution java https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/7[#7]
+** changer l’URL de testapi en api dans le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/80fd146f102d40a25554d470f090b351cb6d2a18[POM] et vérifier son https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/a25bc91d107868d8ad9ebfb69f3e9c002608519f[fonctionnement]
+** régler le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/eef6aca395bd8eb9b5ddf9992516ce1cfd604c9f[problème de l'entête] 
+** ajouter « Généré le {docdate} à partir des données du site internet de Dauphine. » au pdf. Le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/98fcf3df5b6fc688c1a5d463c4a81f1a57e08b33[code] place la phrase après la table des matières. Je n'ai pas réussi à la placer juste après le titre.
 ** Accepter les espaces dans les noms de fichiers
 https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/6[#6]
 ** Travis : éviter dépôt dans dépôt https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/4[#4]
@@ -56,3 +58,8 @@ https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/6[#6]
 *** second essai sur jekyll
 ** lire le protocole
 ** lire Cailloux, Olivier, and Yves Meinard. 2019. ‘A Formal Framework for Deliberated Judgment’. Theory and Decision.
+
+== Projets terminés
+
+* attendance (abandonné) :
+** récupérer des identifiants pour accéder à aux APIs
