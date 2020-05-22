@@ -1,10 +1,5 @@
 = Stage 2020
 
-== Travaux
-
-* Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
-* Documentation du déploiement sur la page GitHub avec Travis-CI : https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc_how_to_build.adoc] 
-
 == Tâches en cours
 
 
@@ -19,11 +14,12 @@
 ** réfléchir à la FilteringImmutableMapKeySet 
 
 * régimes alimentaires :
-** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
-*** mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
-*** essai avec Google Analytics mais pas assez précis
-*** quelques pistes (https://github.com/spodlecki/videojs-event-tracking[1], https://github.com/toolbox-tve/videojs-tracking-events[2]) pour afficher les informations des vidéos mais trouver comment les récupérer
-** trouver un canevas pour présenter les arguments et récolter les opinions
+** Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
+*** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
+**** mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
+**** essai avec Google Analytics mais pas assez précis
+**** quelques pistes (https://github.com/spodlecki/videojs-event-tracking[1], https://github.com/toolbox-tve/videojs-tracking-events[2]) pour afficher les informations des vidéos mais trouver comment les récupérer
+*** trouver un canevas pour présenter les arguments et récolter les opinions
 ** réfléchir au protocole d’exposition et de collecte
 
 == Tâches terminées

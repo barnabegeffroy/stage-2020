@@ -1,0 +1,11 @@
+== Résumé de l'entretien du 21 mai 2020
+
+* plaquette Mido : 
+** améliorer le projet papyrus, faire un diagramme
+*** ajouter le LoginOpt dans le package
+*** getAuthentication renvoie un Login ou une exception
+*** getConstantAuthenticator prend un Login pour argument
+*** enlever getAuthenticator
+*** ajouter un constructeur immuable à AuthReader
+
+Prochain entretien : 21 mai 2020
