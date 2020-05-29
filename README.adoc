@@ -4,9 +4,8 @@
 
 
 * plaquette mido : 
-** ajouter un modèle Papyrus dans un répertoire Doc de plaquette-mido et y créer un diagramme de classe
-** améliorer et publier l’authentificateur séparément (projet CredsRead):
-*** implémenter une classe publique login
+** améliorer et publier l’authentificateur séparément (projet https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/src/main/java/io/github/oliviercailloux/creds_read[CredsRead]):
+*** revoir le fonctionnement des tests
 ** ajouter les noms des enseignants au PDF généré
 
 * guava (https://github.com/google/guava/issues/3480[discussion]):
@@ -25,6 +24,10 @@
 == Tâches terminées
 
 * plaquette mido : 
+
+** améliorer et publier l’authentificateur séparément (projet https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/src/main/java/io/github/oliviercailloux/creds_read[CredsRead]):
+*** implémenter une classe publique https://github.com/Dauphine-MIDO/plaquette-MIDO/blob/master/src/main/java/io/github/oliviercailloux/creds_read/Credentials.java[Credentials]
+** ajouter un modèle Papyrus dans un https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/doc[répertoire Doc] de plaquette-mido et y créer un diagramme de classe
 ** faire échouer le build Travis : changer mvn:exec par une exécution java https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/7[#7]
 ** changer l’URL de testapi en api dans le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/80fd146f102d40a25554d470f090b351cb6d2a18[POM] et vérifier son https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/a25bc91d107868d8ad9ebfb69f3e9c002608519f[fonctionnement]
 ** régler le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/eef6aca395bd8eb9b5ddf9992516ce1cfd604c9f[problème de l'entête] 
@@ -58,4 +61,4 @@ https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/6[#6]
 == Projets terminés
 
 * attendance (abandonné) :
-** récupérer des identifiants pour accéder à aux APIs
+** récupérer des identifiants pour accéder aux APIs
