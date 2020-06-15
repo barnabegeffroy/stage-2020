@@ -8,4 +8,3 @@
 *** enlever getAuthenticator
 *** ajouter un constructeur immuable à AuthReader
 
-Prochain entretien : 21 mai 2020

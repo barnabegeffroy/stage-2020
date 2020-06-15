@@ -1,11 +1,11 @@
 = Stage 2020
 
+https://github.com/barnabegeffroy/stage-2020/tree/master/rapport[Rapport de stage]
+
 == Tâches en cours
 
 
 * plaquette mido : 
-** améliorer et publier l’authentificateur séparément (projet https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/src/main/java/io/github/oliviercailloux/creds_read[CredsRead]):
-*** revoir le fonctionnement des tests
 ** ajouter les noms des enseignants au PDF généré
 
 * guava (https://github.com/google/guava/issues/3480[discussion]):
@@ -14,6 +14,7 @@
 
 * régimes alimentaires :
 ** Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
+*** Mettre en place des sliders répondant aux questions du "Topic" du protocole.
 *** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
 **** mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
 **** essai avec Google Analytics mais pas assez précis
@@ -27,6 +28,7 @@
 
 ** améliorer et publier l’authentificateur séparément (projet https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/src/main/java/io/github/oliviercailloux/creds_read[CredsRead]):
 *** implémenter une classe publique https://github.com/Dauphine-MIDO/plaquette-MIDO/blob/master/src/main/java/io/github/oliviercailloux/creds_read/Credentials.java[Credentials]
+*** revoir le fonctionnement des tests
 ** ajouter un modèle Papyrus dans un https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/doc[répertoire Doc] de plaquette-mido et y créer un diagramme de classe
 ** faire échouer le build Travis : changer mvn:exec par une exécution java https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/7[#7]
 ** changer l’URL de testapi en api dans le https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/80fd146f102d40a25554d470f090b351cb6d2a18[POM] et vérifier son https://github.com/Dauphine-MIDO/plaquette-MIDO/commit/a25bc91d107868d8ad9ebfb69f3e9c002608519f[fonctionnement]
