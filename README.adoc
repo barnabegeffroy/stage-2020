@@ -14,7 +14,6 @@ https://github.com/barnabegeffroy/stage-2020/tree/master/rapport[Rapport de stag
 
 * régimes alimentaires :
 ** Site web Jekyll : https://barnabegeffroy.github.io/vegan_or_not/[vegan_or_not]
-*** Mettre en place des sliders répondant aux questions du "Topic" du protocole.
 *** comprendre comment on s’insère dans ce canevas pour récolter les traces => ce que l’utilisateur voit, etc. 
 **** mettre en oeuvre une requête ajax qui renvoie les informations du client au serveur
 **** essai avec Google Analytics mais pas assez précis
@@ -26,7 +25,8 @@ https://github.com/barnabegeffroy/stage-2020/tree/master/rapport[Rapport de stag
 
 * plaquette mido : 
 
-** améliorer et publier l’authentificateur séparément (projet https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/src/main/java/io/github/oliviercailloux/creds_read[CredsRead]):
+** améliorer et publier l’authentificateur séparément (projet https://github.com/oliviercailloux/creds-read[CredsRead]):
+*** publication du https://github.com/oliviercailloux/creds-read[projet]
 *** implémenter une classe publique https://github.com/Dauphine-MIDO/plaquette-MIDO/blob/master/src/main/java/io/github/oliviercailloux/creds_read/Credentials.java[Credentials]
 *** revoir le fonctionnement des tests
 ** ajouter un modèle Papyrus dans un https://github.com/Dauphine-MIDO/plaquette-MIDO/tree/master/doc[répertoire Doc] de plaquette-mido et y créer un diagramme de classe
@@ -48,6 +48,7 @@ https://github.com/Dauphine-MIDO/plaquette-MIDO/issues/6[#6]
 **  fusionner la nouvelle version de plaquette (1.0-branch)
 
 * régimes alimentaires : 
+** Mettre en place des https://barnabegeffroy.github.io/vegan_or_not/form3[sliders] répondant aux questions du "Topic" du protocole.
 ** détailler la https://github.com/Yasmine07/D-lib-jugdment/blob/master/D%C3%A9marche%20site%20web.adoc[doc] de Yasmine sur WP2Static
 ** trouver un façon de déployer WordPress sur le web
 ** faire une https://github.com/barnabegeffroy/vegan_or_not/blob/build/doc_how_to_build.adoc[doc] sur le déploiement de Jekyll sur Travis et GitHub (asciidoctor)

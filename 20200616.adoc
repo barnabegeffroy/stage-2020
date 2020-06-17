@@ -1,0 +1,8 @@
+== Résumé de l'entretien du 16 juin 2020
+
+* régimes alimentaires:
+** choix du troisième  modèle de sliders. Mettre le tout en deux colonnes.
+
+* creds-read:
+** publication du projet, mettre l'historique des commits de plaquette-MIDO
+

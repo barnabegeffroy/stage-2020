@@ -1,6 +1,6 @@
 == Résumé de l'entretien du 10 juin 2020
 
 * régimes alimentaires:
-*** améliorer les sliders de sorte qu'ils soient liés
-*** deux sliders seulement, la dernière donnée découle des deux premières
+** améliorer les sliders de sorte qu'ils soient liés
+** deux sliders seulement, la dernière donnée découle des deux premières
 
